@@ -1,0 +1,2 @@
+D:\GitHub\Esmash_MusicGame\MusicSlash\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+D:\GitHub\Esmash_MusicGame\MusicSlash\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
